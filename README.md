@@ -62,8 +62,5 @@ I am passionate about building fast, secure, and user-friendly web applications.
 * **Email:** [berestbodi@gmail.com]
 
 ---
-<div align="center">
-  <a href="https://www.last.fm/user/ВАШ_ЛОГІН">
-    <img src="https://lastfm-recently-played.vercel.app/api/recent-tracks?user=berestbodi&count=1&width=400&theme=dark&bg_color=1e1c1f&text_color=ffffff&unique=true" alt="Now Playing on YouTube Music" />
-  </a>
-</div>
+
+[![Last.fm](https://lastfm-recently-played.vercel.app/api/recent-tracks?user=berestbodi_LASTFM)](https://www.last.fm/user/berestbodi_LASTFM)
