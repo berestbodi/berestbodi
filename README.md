@@ -50,6 +50,14 @@ I am passionate about building fast, secure, and user-friendly web applications.
 
 ---
 
+---
+
+### 🗣️ Languages
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square) ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square) ![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+
+---
+
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [www.linkedin.com/in/bohdan-berest]
