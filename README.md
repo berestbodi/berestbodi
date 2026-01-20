@@ -62,5 +62,3 @@ I am passionate about building fast, secure, and user-friendly web applications.
 * **Email:** [berestbodi@gmail.com]
 
 ---
-
-[![Last.fm](https://lastfm-recently-played.vercel.app/api/recent-tracks?user=berestbodi_LASTFM)](https://www.last.fm/user/berestbodi_LASTFM)
